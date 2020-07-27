@@ -1,1 +1,3 @@
-let x;
+
+let y;
+const z;
